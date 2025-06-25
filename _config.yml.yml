@@ -1,0 +1,22 @@
+# Site settings
+title: Antonis Charitos
+description: Jekyll Theme Minimal Resume
+# baseurl: "" # the subpath of your site, e.g. /blog
+# url: https://AntonisCharitos.github.io
+
+# User settings
+username: Antonis Charitos
+user_description: Aspiring Data Scientist with a strong analytical background and recent bootcamp training with Big Blue Data Academy. Currently working at Alpha Bank as a Transaction Dispute Specialist, I’m eager to apply my skills to real-world data challenges and grow in the field of Data Science.
+user_title: Aspiring Data Scientist
+email: antonis.charitos00@gmail.com
+# twitter_username: 
+instagram_username: charitos._
+facebook_username: 
+linkedin_username: Antonis Charitos
+github_username:  AntonisCharitos
+# medium_username: 
+# medium_url: 
+# gplus_username:  
+
+exclude: ['package.json', 'src', 'node_modules', 'vendor']
+
